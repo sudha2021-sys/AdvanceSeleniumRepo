@@ -38,7 +38,7 @@ public class CreateProduct extends BaseClass
 {
 	//@Parameters("browser")
 	@Test                               //(groups= {"Regression"})
-	public void createProductTest() throws InterruptedException, IOException {
+	public void addProductTest() throws InterruptedException, IOException {
 		
 		JavaUtility jutil=new JavaUtility();
 	    int randomnum = jutil.getRandumNum(2000);

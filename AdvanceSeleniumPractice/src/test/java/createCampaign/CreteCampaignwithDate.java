@@ -27,7 +27,7 @@ import genericUtility.ExcelFileUtility;
 import genericUtility.JavaUtility;
 import genericUtility.PropertyFileUtility;
 
-public class CreteCampaignwithCloseDate {
+public class CreteCampaignwithDate {
 	public static void main(String[] args) throws InterruptedException, IOException {
 		// TODO Auto-generated method stub
 		/*FileInputStream fis=new FileInputStream("C:\\Users\\sudha\\eclipse-workspace\\newjavaproject\\src\\sudha\\AdvanceSeleniumPractice\\src\\test\\resources\\commonData.properties");
