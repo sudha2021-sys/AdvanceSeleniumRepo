@@ -43,7 +43,7 @@ import genericUtility.webDriverUtility;
 
 // @Listeners(ListnerImplement.class)
 
-public class createContact1 extends BaseClass
+public class createContact1Test extends BaseClass
 {
 	@Test
 	public void createContactWithCampaignTest() throws InterruptedException, IOException {

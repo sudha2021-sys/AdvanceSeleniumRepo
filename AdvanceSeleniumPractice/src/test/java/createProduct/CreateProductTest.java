@@ -33,7 +33,7 @@ import genericUtility.JavaUtility;
 import genericUtility.PropertyFileUtility;
 import genericUtility.webDriverUtility;
 //@Listeners(ListnerImplement.class)
-public class CreateProduct extends BaseClass
+public class CreateProductTest extends BaseClass
 
 {
 	//@Parameters("browser")

@@ -27,7 +27,7 @@ import genericUtility.PropertyFileUtility;
 import genericUtility.webDriverUtility;
 
    // @Listeners(ListnerImplement.class)
-public class Login_test extends BaseClass
+public class Login_Test extends BaseClass
 {
 
 	//@Parameters("browser")

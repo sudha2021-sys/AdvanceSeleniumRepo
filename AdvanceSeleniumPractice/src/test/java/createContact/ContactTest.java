@@ -13,7 +13,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 import genericBaseClassUtility.BaseClass;
 
-public class createContact extends BaseClass {
+public class ContactTest extends BaseClass {
 		
 		public static void main(String[] args) throws IOException, InterruptedException {
 			FileInputStream fis=new FileInputStream("C:\\Users\\sudha\\eclipse-workspace\\newjavaproject\\src\\sudha\\AdvanceSeleniumPractice\\src\\test\\resources\\commonData.properties");
